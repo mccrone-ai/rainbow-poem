@@ -1,6 +1,7 @@
 Red
 Green
 Blue
+Aqua
 Purple
 Pink
 Yellow
