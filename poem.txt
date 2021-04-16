@@ -5,6 +5,7 @@ Aqua
 Purple
 Pink
 Yellow
+Indigo
 Orange
 These are the colours of the Rainbow.
 And the Unicorn.
