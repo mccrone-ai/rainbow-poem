@@ -3,5 +3,6 @@ Green
 Blue
 Purple
 Pink
+Yellow
 Orange
 These are the colours of the Rainbow.
