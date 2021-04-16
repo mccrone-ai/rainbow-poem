@@ -1,0 +1,6 @@
+Red
+Green
+Blue
+Purple
+Orange
+These are the colours of the Rainbow.
